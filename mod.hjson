@@ -2,7 +2,8 @@ displayName: "Cheat Blocks"
 author: "[cyan]Master[lime]GG"
 name: "cheat-blocks"
 
-description: "ENG: Hello everyone who installed this mod! Initially, I created this mod just for myself, but then I decided to post it. 
+description: 
+"ENG: Hello everyone who installed this mod! Initially, I created this mod just for myself, but then I decided to post it. 
 This is my first mod and it may have many flaws, so please be gentle.
 
 RU: Привет всем кто установил этот мод! Изначально я создавл этот мод просто для себя, но потом я решил выложить его. 
@@ -10,4 +11,5 @@ RU: Привет всем кто установил этот мод! Изнач�
 
 version: "1.3.4"
 
-minGameVersion: 145
+minGameVersion: 146
+
