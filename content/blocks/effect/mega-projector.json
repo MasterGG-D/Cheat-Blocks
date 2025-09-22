@@ -1,0 +1,35 @@
+{
+"type": "OverdriveProjector",
+"health":  3000,
+"size": 2,
+"range": 5000,
+"itemCapacity": 50,
+"consumes": { 
+"power": 10,
+"items": {
+ "items": [
+  "silicon/1"
+  ],
+ "booster": false,
+ "optional": false
+ } 
+},
+"speedBoost": 10,
+"hasBoost":false,
+"speedBoostPhase": 0,
+"requirements": [
+	"lead/150",
+    "silicon/50",
+	"graphite/30"
+	],
+	"category": "effect",
+"research": {
+    "parent": "overdrive-dome",
+    "objectives": [
+      {
+        "type": "SectorComplete",
+        "preset": "desolateRift"
+    }
+    ]
+  }
+}
