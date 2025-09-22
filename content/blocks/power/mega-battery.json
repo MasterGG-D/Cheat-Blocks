@@ -1,0 +1,13 @@
+{
+"type": "battery",
+"size": 1,
+"health": 3000,
+"consumes": {
+  "powerBuffered": 1000000000
+},
+"research": "battery",
+"category": "power",
+"requirements": [
+  "lead/10"
+]
+}

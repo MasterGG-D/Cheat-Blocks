@@ -1,0 +1,20 @@
+{
+  "type": "SolarGenerator",
+  "size": 1,
+  "health": 3000
+  "name": "Solar Power",
+  "hasPower": true,
+  "powerProduction": 1500,
+  "requirements": [
+    {
+      "item": "metaglass",
+      "amount": 10
+    },
+    {
+      "item": "silicon",
+      "amount": 30
+    }
+  ],
+  "category": "power",
+  "research": "solar-panel"
+}
